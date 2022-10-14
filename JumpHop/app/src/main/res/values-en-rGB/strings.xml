@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="score">score</string>
+    <string name="volume">volume</string>
+    <string name="vibration">vibration</string>
+    <string name="programmer">Programmer</string>
+    <string name="art">Art</string>
+    <string name="Development">Development</string>
+    <string name="Credits">Credits</string>
+</resources>
